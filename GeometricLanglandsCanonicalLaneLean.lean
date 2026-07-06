@@ -1,0 +1,7 @@
+-- This module is the root of the GeometricLanglandsCanonicalLaneLean Lean proof package.
+import GeometricLanglandsCanonicalLaneLean.Basic
+import GeometricLanglandsCanonicalLaneLean.SourcePackage
+import GeometricLanglandsCanonicalLaneLean.SourceDependencies
+import GeometricLanglandsCanonicalLaneLean.Formalization
+import GeometricLanglandsCanonicalLaneLean.ReviewerBridge
+import GeometricLanglandsCanonicalLaneLean.TheoremStatement
